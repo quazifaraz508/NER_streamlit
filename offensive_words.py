@@ -261,14 +261,15 @@ offensive_words = [
 ]
 
 import re
+result_list = []
 def offencive_word_detect(text):
     words= offensive_words
     patterns = r'\b(' + '|'.join(map(re.escape, words)) + r')\b'
     matches = re.findall(patterns, text.lower())
     
     if matches:
-        print("Offensive words detected.")
+        result_list.append(f"Offensive words detected:{matches}")
     else:
         print("No offensive words detected.")
         
-    return matches
+    return result_list
