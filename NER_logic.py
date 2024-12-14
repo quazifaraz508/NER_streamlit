@@ -270,7 +270,21 @@ offensive_words = [
     "bakchod", 
     "bevkuf", "bevakoof", 
     "chutiyapa", 
-    "ullu"
+    "ullu",
+
+    
+    "fool", "idiot", "stupid", "dumb", "bastard", "moron", "loser", "jerk", "trash", "scum", 
+    "psycho", "dirtbag", "weirdo", "clown", "crazy", "lazy", "douche", "pervert", "creep", 
+    "scumbag", "useless", "annoying", "lame", "disgusting", "filthy", "gross", "pathetic", 
+    "worthless", "unworthy", "cheater", "liar", "backstabber", "snake", "traitor", "cuss", 
+    "curse", "damn", "hell", "piss", "suck", "crap", "bull", "garbage", "dirt", "retard", 
+    "coward", "slave", "beggar", "drunkard", "junkie", "degenerate", "lowlife", "failure", 
+    "disgrace", "leech", "parasite", "burden", "mistake", "freak", "lunatic", "failure", 
+    "pig", "dog", "rat", "snake", "donkey", "buffalo", "goat", "chicken", "insect", "worm", 
+    "cockroach", "mosquito", "pest", "cock", "dick", "penis", "vagina", "asshole", "scumbag", 
+    "dirtbag", "a**hole", "whore", "slut", "prostitute", "harlot", "wench", "witch",
+]
+
 
 ]
 
