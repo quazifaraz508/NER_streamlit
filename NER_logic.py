@@ -281,7 +281,7 @@ class ner_logic:
     def build(self, inp):
         words= offensive_words
         patterns = r'\b(' + '|'.join(map(re.escape, words)) + r')\b'
-        matches_offensive_words = re.findall(patterns, text.lower())
+        matches_offensive_words = re.findall(patterns, inp.lower())
     
         match_find_cities = re.findall(r'\b(?:' + '|'.join(cities.split(' | ')) + r')\b', inp, re.IGNORECASE)
         # match_find_cities_andra_pradesh = re.findall(cities_Andra_pradesh  ,inp, re.IGNORECASE)
