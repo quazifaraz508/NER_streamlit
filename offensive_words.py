@@ -272,10 +272,3 @@ def offencive_word_detect(text):
         print("No offensive words detected.")
         
     return matches
-
-text_inp = input()
-detect_fun =offencive_word_detect(text_inp)
-if detect_fun:
-    print(f"Offensive words detected.{detect_fun}")
-    
-    
