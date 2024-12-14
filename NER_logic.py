@@ -15,7 +15,7 @@ villages_Arunachal_Pradesh = 'Bubang | Chopelling | Deban | Dharampur | Gandhigr
 
 offensive_words = [
     # English offensive words (with common variations)
-    "abuse", "idiot", "stupid", "dumb", "fool", 
+    "abuse", "idiot", "stupid", "dumb", "fool", "fuck", 
     "bastard", "moron", "loser", "jerk", "trash",
     "scum", "psycho", "dirtbag", "weirdo", "clown",
     "crazy", "lazy", "douche", "pervert", "creep",
