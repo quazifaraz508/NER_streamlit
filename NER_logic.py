@@ -283,7 +283,32 @@ offensive_words = [
     "pig", "dog", "rat", "snake", "donkey", "buffalo", "goat", "chicken", "insect", "worm", 
     "cockroach", "mosquito", "pest", "cock", "dick", "penis", "vagina", "asshole", "scumbag", 
     "dirtbag", "a**hole", "whore", "slut", "prostitute", "harlot", "wench", "witch",
-]
+    
+    # sexual harrasment
+    "sexual abuse", "rape", "molestation", "assault", "groping", "harassment", "victim", 
+    "sexual predator", "pervert", "creep", "masturbation", "pornography", "incest", 
+    "sexually explicit", "sex offender", "sexual exploitation", "victim blaming", 
+    "objectification", "sexual object", "unwanted touch", "sexual misconduct", "rape culture", 
+    "locker room talk", "sexual assault", "disrespect", "inappropriate comments", "predatory behavior", 
+    "catcalling", "whistling", "stalking", "sexual comments", "lewd behavior", "sexual intimidation", 
+    "sexist", "misogyny", "chauvinistic", "toxic masculinity", "victim shaming", "harasser", 
+    "perpetrator", "assailant", "degrading", "humiliating", "shaming", "invasive behavior", 
+    "exploitation", "unwanted advances", "disrespectful", "degrading language", "sexist remarks", 
+    "unwanted flirtation", "harassing behavior", "inappropriate touch", "unwanted sexual attention",
+
+    # hindi words abuse
+
+    "balatkaar", "balatkaarhi", "khaali raat", "dushkarman", "ashlil baatein", "lingik atyachaar", 
+    "jabarjasti", "gharwahi", "chhedchaad", "ghilaaf", "saahasik dushkarman", "nindak", "pratirodh", 
+    "balaatkaar", "yatharth", "chhupke se", "mahila atyachaar", "buri niyat", "unkahi baatein", 
+    "beizzati", "jamakhori", "apraadhik vyavhaar", "sarvashaktimaan", "anuchit prabhaav", 
+    "bhoolbhalai", "manoviya atyachaar", "yaun anuchit vyavhaar", "jabarjasti sambandh", "ganda vyavhaar", 
+    "lingik ghatanayein", "bhayankar anubhav", "yaun uttejan", "sahasik atyachaar", "unhoon ki vyavhaar", 
+    "kudrati chhedchhad", "zabardasti", "hinsa", "jameen ka ganda vyavhaar", "nafrat ka prabhav", 
+    "krodh bhari baatein", "vyaktiyon ka atyachaar", "abhiprerit vyavhaar", "shaktishaali vyavhaar", 
+    "shabd ganda karne wali", "vyavhaar apmaanjanak", "laajh se jyada", "ganda soch", "krodh yukt baatein", 
+    "sahasik samarthan", "unnat vyavhaar", "chhupke se nafrat", "jandali hinsa", "dhoka dena", 
+    "pareshani ko badhawa dena", "ashlil soch", "maasoomiyon ko dikhawa dena", "apmaanjanak vyavhaar",
 
 
 ]
