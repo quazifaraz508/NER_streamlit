@@ -269,7 +269,6 @@ def offencive_word_detect(text):
     
     if matches:
         result_list.append(f"Offensive words detected:{matches}")
-    else:
-        print("No offensive words detected.")
+    
         
-    return  "\n".join(result_list) if result_list else "No matches found."
+    return  "\n".join(result_list) if result_list else "No offensive words detected."
