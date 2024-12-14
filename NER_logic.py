@@ -310,7 +310,7 @@ class ner_logic:
         # else:
         #     pass
         
-            results.append(f"Offensive words detected:{matches}")
+            results.append(f"Offensive words detected:{matches_offensive_words}")
             results.append(f"States :{match_find_states}")
             results.append(f"cities :{match_find_cities_andra_pradesh + match_find_cities_Arunachal_Pradesh + match_find_cities }")
             results.append(f"Towns/village: {match_find_town_andra_pradesh + match_find_village_andra_pradesh + match_find_villages_or_town_Arunachal_Pradesh }")
