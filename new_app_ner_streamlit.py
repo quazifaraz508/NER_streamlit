@@ -10,6 +10,4 @@ st.header("from text it find OFFENSIVE WORDS, STATE ,CITIES and VILLAGE but for 
 user_inp = st.text_input('Enter text/message: ','This is maharashtra not goa or bihar')
 result = ner_logic_op.build(user_inp)
 st.write(result)
-result_offens = offencive_word_detect(user_inp)
-st.write(result_offens)
 
